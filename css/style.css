@@ -4,7 +4,7 @@ border: 0;
 }
 .panda-card-footer{
 
-    background-color: wheat;
+    background-color: rgb(247, 246, 244);
     border:0 ;
 }
 .categories img{
@@ -12,7 +12,7 @@ border: 0;
 width: 100px;
 }
 .panda-slide, .carousel-item {
-background-color: violet;
+background-color:#faebd7;
 border-radius: 1em;
 
 }
